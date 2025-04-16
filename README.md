@@ -40,8 +40,8 @@ Follow these steps to set up and run the `check_chrome_update.sh` script:
 1. **Clone the Repository** 📥:
 
    ```bash
-   git clone https://github.com/Lalatenduswain/check_chrome_update.git
-   cd check_chrome_update
+   git clone https://github.com/Lalatenduswain/Check-Chrome-Update.git
+   cd Check-Chrome-Update
    ```
 
 2. **Make the Script Executable** 🔐:
