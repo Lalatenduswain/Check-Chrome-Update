@@ -55,8 +55,13 @@ Follow these steps to set up and run the `check_chrome_update.sh` script:
    ```bash
    ./check_chrome_update.sh
    ```
+4. **Or Run the Script directly** 🚀:
 
-4. **Follow Prompts** 💬:
+   ```bash
+   curl -sSL https://raw.githubusercontent.com/Lalatenduswain/Check-Chrome-Update/refs/heads/master/check_chrome_update.sh | bash
+   ```
+
+5. **Follow Prompts** 💬:
 
    - If Chrome is not installed, the script will ask if you want to install the latest version.
    - If a newer version is available, it will prompt to update.
